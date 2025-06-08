@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I’m Tome 👋
 
-<!--
-**tomaxtio/tomaxtio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things that work — and working with people who care.  
 
-Here are some ideas to get you started:
+Simplify. Build. Repeat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do
+
+- Build clean, useful systems and tools  
+- Work across engineering, product, and team growth  
+- Focus on clarity, collaboration, and long-term thinking
+
+## 🧠 What I Care About
+
+- Designing systems that scale simply  
+- Building strong, healthy teams  
+- Writing code that makes sense  
+- Solving real problems, not just interesting ones
+
+## 📫 Let’s Connect
+
+- 🐦 [@tomaxtio](https://x.com/tomaxtio)
