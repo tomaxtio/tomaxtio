@@ -19,4 +19,4 @@ Simplify. Build. Repeat.
 
 ## 📫 Let’s Connect
 
-- 🐦 [@tomaxtio](https://x.com/tomaxtio)
+- 🐦 [@tomaxtio](https://x.com/tomevian)
